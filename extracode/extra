@@ -1,0 +1,11 @@
+        <img src="blahblah.png" usemap="#blahblah">
+          <map name="blahblah">
+
+        <area shape="rect" coords="XX,XX,XXX,XXX" href="#text1">
+          <div class=caption id=text1>
+           <u>display some text</u> 
+          </div>
+        <area shape="rect" coords="XX,XX,XXX,XX" href="#text2">
+         <div class=caption id=text2>
+          <u>display some other text</u> 
+         </div>
