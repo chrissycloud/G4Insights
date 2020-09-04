@@ -79,13 +79,22 @@
         <h1>Green Hydrogen</h1>
         <h3>Hydrogen will play a significant role in future energy supply. In addition to production of renewable natural gas (RNG), G4 technology can also be used in the production of Green Hydrogen (H2 from renewable feed stocks) and Blue Hydrogen (H2 from fossil natural gas with carbon capture and storage). 95% of global hydrogen production is based on stream methane reforming (SMR) and fossil natural gas feed stock. G4 leverages proven SMR technology to product hydrogen with negative carbon intensity.</h2>
       <figure>
-          <!-- <img src="../images/Green Hydroge nGraphic (1).png" alt="Green Hydrogen Process" width="1400" height="677"> -->
+          <!-- <img src="../images/Green Hydrogen Graphic (1).png" alt="Green Hydrogen Process" width="1400" height="677"> -->
           <figcaption>Figure 1 – G4 PCH Process</figcaption>
         </figure>
         
+      <div>
+        <p style="float: left;"><img src="../images/P1 Green Hydrogen.png" height="200px" width="200px" border="1px"></p>
         <p>G4 Green Hydrogen is produced by using G4 RNG as the SMR feed stock to produce renewable hydrogen. The RNG production also produces biochar which is used as the fuel for the SMR burner.</p>
+      </div>
+      <div style="clear: left;">
+        <p style="float: left;"><img src="../images/P2 Green Hydrogen.png" height="200" width="200" border="1px"></p>
         <p>The combustion of biochar results in a carbon neutral flue gas which eliminates the requirement for expensive and complex carbon capture technology to remove CO2 from flue gas.</p>
+      </div>
+      <div style="clear: left;">
+        <p style="float: left;"><img src="../images/P3 Green Hydrogen.png" height="200" width="200" border="1px"></p>
         <p>The SMR reformate is purified by a G4 gas separation system which partitions the reformate into a pure hydrogen stream and a pure CO2 stream. The combination of renewable feed stock and CO2 sequestration provides a negative carbon intensity value for G4 Green Hydrogen.</p>
+      </div>
         
       <!-- </div> -->
     </div> <!-- /container -->
