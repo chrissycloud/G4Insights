@@ -60,7 +60,6 @@ body {
 }
 
 .container {
-    border: 3px solid blue;
     padding: 20px 40px 40px;
     max-width: 600px;
     &__image {
