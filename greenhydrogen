@@ -126,3 +126,21 @@
     <script src="js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
+
+body {
+    padding: 50px;
+}
+
+.container {
+    border: 3px solid blue;
+    padding: 20px 40px 40px;
+    max-width: 600px;
+    &__image {
+        width: 250px;
+        margin: 30px 30px 30px 0;
+        float: left;
+    }
+    &__text {
+        display: inline;
+    }
+}
