@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon/favicon.ico">
 
-    <title>G4 Insights Inc. - Our Technology</title>
+    <title>G4 Insights Inc. - Blue Hydrogen</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -72,38 +72,38 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
-
-    <div class="container" id="body">
-      <!-- Main component for a primary marketing message or call to action -->
-      <!-- <div class="jumbotron"> -->
-        <h1>Our Technology</h1>
-        <p>G4 Insight's proprietary process PyroCatalytic Hydrogenation (PCH) uses fast pyrolysis rather than gasification of the biomass to generate a vapor from the solid phase. This fundamental difference enables a low temperature thermochemical process (Figure 1) consisting of the following components:</p>
-        <ol>
-          <li>Biomass Preparation – Forest biomass is prepared by cleaning, comminution, and partial drying.</li>
-          <li>Hydropyrolysis – Biomass is vaporized in a pressurized hydrogen atmosphere by using a recirculating heating media to create a fast pyrolysis process. The generated vapors and aerosols are separated from the solid phase mixture of char and media. The char is further separated from the heating media for use in the reformer.</li>
-          <li>Gas Conditioning – The pyrolysis vapors are catalytically converted into methane and steam in the presence of hydrogen gas. This is performed at catalyst temperatures below 650C and minimizes the formation of poly-aromatic hydrocarbons.</li>
-          <li>Separation and Purification – the hot gases are cooled in a controlled process and the methane gas is separated and purified from the liquids and remaining hydrogen.</li>
-          <li>Hydrogen Generation – A portion of the methane, water, and excess hydrogen is recirculated into a steam methane reformer to generate the hydrogen required for the hydropyrolyzer. The heat source for the endothermic reforming process is the combustion of the char generated in the pyrolysis process.</li>
-        </ol>
-        <figure>
-          <img src="images/FLOW_DIAGRAM_v3.jpeg" alt="G4 PCH Process" width="466" height="225">
-          <!-- <img src="images/our_technology_1.jpeg" alt="G4 PCH Process" width="1400" height="677"> -->
-          <figcaption>Figure 1 – G4 PCH Process</figcaption>
+    
+       <h1>Blue Hydrogen</h1>
+        <h3>Hydrogen will play a significant role in future energy supply. In addition to production of renewable natural gas (RNG), G4 technology can also be used in the production of Green Hydrogen (H2 from renewable feed stocks) and Blue Hydrogen (H2 from fossil natural gas with carbon capture and storage). 95% of global hydrogen production is based on stream methane reforming (SMR) and fossil natural gas feed stock. G4 leverages proven SMR technology to product hydrogen with negative carbon intensity.</h2>
+        <p>Although G4 Blue Hydrogen is not renewable, it leverages available biomass to produce very large quantities of negative carbon intensity hydrogen and plays a critical role in the transition to a green hydrogen future.</p>
+      <figure>
+          <!-- <img src="Blue Hydrogen Graphic 1 (1).jpg" alt="Blue Hydrogen Process" width="1400" height="677"> -->
         </figure>
-        <p>Forestry biomass composition may be generally represented as C<sub>6</sub>H<sub>9</sub>O<sub>4</sub>. The hydropyrolysis process vaporizes the biomass into volatile gases and aerosols. Tar formation is eliminated through G4 proprietary processes. Catalytic formation of methane involves a variety of reactions which hydrogenate the pyrolysis gases to form methane and water: </p>
-        <p style="text-align:center">C<sub>6</sub>H<sub>9</sub>O<sub>4</sub> + 11.5 H<sub>2</sub> &rarr; 6 CH<sub>4</sub> + 4 H<sub>2</sub>O</p>
-        <p>However, hydropyrolysis always produces a portion of solid char so that not all of the carbon is transferred from wood to methane. The G4 process utilizes this char to generate the heat required for making hydrogen with the reformer. No external hydrogen supply is required in the PCH process. The thermal energy of the reformer heating and process streams are utilized to energize the heating media used in the pyrolysis process and the biomass drying. Separation and purification of a high grade methane mixture is performed by a proprietary pressure swing adsorption process and yields methane purity levels over 98%.</p>
-        <p>Net energy conversion efficiency (HHV basis) from biomass to methane is nominally greater than 70%. The G4 RNG product will meet all natural gas pipeline specifications around the world. The gas is renewable and sustainable, suitable for renewable power generation and can be classified as a Super-Ultra-Low-Carbon transportation fuel (California).</p>
-        <p>G4 has multiple patents issued in the US, EU, UK, Canada, and China.</p>
-        <p>The G4 technology development phase and has achieved 88% to 100% of commercial target performance for core processes.</p>
-        <figure id="fig1">
-          <img src="images/our_technology_demo_join.jpeg" alt="G4 Process Demonstration Unit 1" width="565" height="351">
-          <figcaption>G4 Process Demonstration Unit</figcaption>
-        </figure>
-        <figure>
-          <img src="images/our_technology_demo_3.jpeg" alt="G4 Mobile Demonstration Unit" width="464" height="348">
-          <figcaption>G4 Mobile Demonstration Unit</figcaption>
-        </figure>
+        
+       <div class="container">
+        <img class="container__image" src="../images/P1 Blue Hydrogen.png" height="200" width="200" border="1px">
+        <div class="container__text">
+          <h3>Producing Blue Hydrogen</h2>
+           <p>G4 Blue Hydrogen is produced by using fossil natural gas as the SMR feed stock and G4 RNG as the fuel for SMR burner.</p>
+         </div>
+      </div>
+      
+      <div class="container">
+        <img class="container__image" src="../images/P2 Blue Hydrogen.png" height="200px" width="200px" border="1px">
+        <div class="container__text">
+          <h3>G4 RNG sequester carbon</h2>
+           <p>The RNG production also produces biochar to sequester carbon. The combustion of RNG in the SMR burner results in a carbon neutral flue gas which eliminates the requirement for expensive and complex carbon capture technology to remove CO2 from flue gas.</p>
+         </div>
+      </div>
+      
+       <div class="container">
+        <img class="container__image" src="../images/P3 Blue Hydrogen.png" height="200" width="200" border="1px">
+        <div class="container__text">
+          <h3>Purifying the SMR reformate</h2>
+           <p>. The SMR reformate is purified by a G4 gas separation system which partitions the reformate into a pure hydrogen stream and a pure CO2 stream. The combination of biochar production and CO2 sequestration provides a negative carbon intensity value for G4 Blue Hydrogen.</p>
+         </div>
+      </div>
+        
       <!-- </div> -->
     </div> <!-- /container -->
     <footer>
