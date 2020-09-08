@@ -126,6 +126,16 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+
 /*@media (max-width: 991px) {
     .navbar-header {
         float: none;
