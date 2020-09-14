@@ -54,17 +54,6 @@ footer {
     height: auto;
     margin-bottom: 25px;
 }
- .dropdown-toggle {
-  background-color: transparent;
-  border-color: #fff;
-  border-style: solid;
-  border-top: none;
-  border-right: none;
-  border-left: none;
-}
-.dropdown-menu{
-  background-color: #000;
-}
 /*@media (max-width: 991px) {
     .navbar-header {
         float: none;
