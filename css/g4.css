@@ -61,38 +61,36 @@ footer {
 }
 
 .dropdown .dropbtn {
-  font-size: 1.2em;  
+  font-size: 16px;  
   border: none;
   outline: none;
-  color: #EEEEEE;
-  padding: 10px 15px;
-  background-color: transparent;
-  font-family: "Helvetica Neue",sans-serif;
-  margin: 1em;
-  font-size: 1.2em; 
-  font-family: "Helvetica Neue",sans-serif;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #2E8B57;
+  background-color: red;
 }
 
 .dropdown-content {
-  display: block;
-  position: relative;
-  background-color: transparent;
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
   min-width: 160px;
-  font-weight: normal;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
 }
 
 .dropdown-content a {
   float: none;
   color: black;
-  padding: 10px 15px;
+  padding: 12px 16px;
   text-decoration: none;
   display: block;
   text-align: left;
-  font-size: 1.2em;
 }
 
 .dropdown-content a:hover {
