@@ -76,9 +76,9 @@ footer {
   font-family: "Helvetica Neue",sans-serif;
 }
 
-/*.navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #EEEEEE;
-}*/
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #2E8B57;
+}
 
 .dropdown-content {
   display: block;
