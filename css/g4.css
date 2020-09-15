@@ -70,7 +70,8 @@ footer {
   outline: none;
   color: transparent;
   padding: 10px 15px;
-  background-color: inherit;
+  background-color: transparent;
+  font-size: 1.2em;
   padding-top: 15px;
   padding-bottom: 15px;
   font-family: "Helvetica Neue",sans-serif; /* Important for vertical align on mobile phones */
@@ -88,6 +89,7 @@ footer {
   position: absolute;
   background-color: #EEEEEE;
   min-width: 160px;
+  font-size: 1.2em;
 }
 
 /* Links inside the dropdown */
