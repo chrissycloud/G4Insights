@@ -49,6 +49,18 @@ footer {
 #body {
   padding-bottom: 60px;
 }
+img.blue1 {
+  height: 50%;
+  width: 50%;
+}
+img.blue2 {
+  height: 50%;
+  width: 50%;
+}
+img.blue3 {
+  height: 50%;
+  width: 50%;
+}
 #banner {
     width: 100%;
     height: auto;
