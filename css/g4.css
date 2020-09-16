@@ -49,6 +49,11 @@ footer {
 #body {
   padding-bottom: 60px;
 }
+img.blue {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 img.blue1 {
   height: 50%;
   width: 50%;
