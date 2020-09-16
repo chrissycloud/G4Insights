@@ -59,7 +59,7 @@ footer {
   margin-left: auto;
   margin-right: auto;
 }
-/*@media (max-width: 991px) {
+@media (max-width: 991px) {
     .navbar-header {
         float: none;
     }
