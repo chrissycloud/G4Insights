@@ -85,6 +85,10 @@ img.green3 {
   height: 50%;
   width: 50%;
 }
+br.image {
+   display: block;
+   margin: 10px 0;
+}
 #banner {
     width: 100%;
     height: auto;
