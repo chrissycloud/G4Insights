@@ -50,12 +50,13 @@ footer {
   padding-bottom: 60px;
 }
 img.blue {
-  float: left
-}
-img.blue1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
+}
+img.blue1 {
+  height: 50%;
   width: 50%;
 }
 img.blue2 {
