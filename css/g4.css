@@ -53,7 +53,9 @@ img.blue {
   float: left
 }
 img.blue1 {
-  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
 }
 img.blue2 {
@@ -65,7 +67,10 @@ img.blue3 {
   width: 50%;
 }
 img.green {
-  float: right
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 img.green1 {
   height: 50%;
